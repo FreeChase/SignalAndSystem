@@ -50,7 +50,7 @@ Xs(f) = Σ X(f − kfs)
 - 带宽：B = fH − fL
 
 允许的采样率范围：
-$${(2 f_H) / n} ≤ f_s ≤ (2 f_L) / (n − 1)$$
+$${\frac{2 f_H}{n}} ≤ f_s ≤ \frac{2 f_L}{n − 1}$$
 
 其中：
 - n 为正整数
@@ -95,7 +95,7 @@ $f_s$ = 10 MHz
 
 3）时钟抖动过大（常被忽略）
 抖动引起的 SNR 损失：
-$$SNR_jitter ≈ −20 log(2π fin σt)$$
+$$SNR_{jitter} ≈ −20 log(2π fin σt)$$
 
 注意：
 - fin 是输入载频
