@@ -72,6 +72,9 @@ $$
 
 ### 1.4 信道编码
 
+
+[ 信道编码 ](specification/信道编码.md)
+
 ---
 
 ## 第二章：信号采集与预处理 (Entry & Sampling)
